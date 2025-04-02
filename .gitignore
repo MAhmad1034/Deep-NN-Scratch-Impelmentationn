@@ -1,0 +1,14 @@
+__pycache__/
+venv/
+.env/
+conda_env/
+*.venv
+.ipynb_checkpoints/
+data/
+datasets/
+checkpoints/
+models/
+*.ckpt
+*.hdf5
+requirements.txt
+
